@@ -1,0 +1,8 @@
+{
+  "name": "reactivity",
+  "version": "1.0.0",
+  "description": "React Boilerplate to fuel up nice projects",
+  "main": "index.js",
+  "author": "Paul Frinchaboy",
+  "license": "MIT"
+}
